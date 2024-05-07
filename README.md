@@ -1,6 +1,8 @@
 # Exploratory_Data_Analysis
 The primary objective of this project is to conduct in-depth Exploratory Data Analysis on the vast 'Airbnb' dataset. Through data exploration and visualization, we seek to gain insights using "Python" and "Pandas" library for data exploration and manipulation and libraries like "Matplotlib", "Seaborn" for data visualization.
 
+![Airbnb](https://github.com/AbhayAviSharma/Exploratory_Data_Analysis/assets/131509148/d6285792-ed6e-461d-a9bd-a17a8f8fe496)
+
 # Objective
 The primary objective of this project is to conduct in-depth exploratory data analysis on the vast repository of Airbnb listings data. Through comprehensive data exploration and visualization, we seek to gain insights into the patterns and behaviors of hosts and clients on the Airbnb platform. The outcomes of this analysis will serve as a foundation for making informed business decisions, enhancing security measures, tracking performance metrics, guiding marketing initiatives, fostering innovation in service offerings, supporting research and development, and ultimately optimizing the Airbnb experience for all stakeholders.
 
